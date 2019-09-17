@@ -16,7 +16,7 @@ A disponibilização dos programas num formato standard permitirá também que s
 | Juntos pelo Povo | | | |
 | LIVRE | [Link](https://partidolivre.pt/legislativas2019/programa) | Vasco P. | DONE |
 | Movimento Alternativa Socialista |  |  |  |
-| Nós, Cidadãos! |  |  |  |
+| Nós, Cidadãos! | [Link](https://noscidadaos.pt/programa-eleitoral-nc-legislativas-2019/?fbclid=IwAR30TnEBUZB0iSxtlBbvUlKcRs7jxoJOo3Wvm5ryZqxvgfH68176wd2gDbs) |  |  |
 | ~~Partido Cidadania e Democracia Cristã~~ | NÃO SE CANDIDATA A ESTAS ELEIÇÕES EM NENHUM CÍRCULO ELEITORAL  |  |  |
 | Partido Comunista dos Trabalhadores Portugueses |  |  |  |
 | Partido Comunista Português | [Set. 2019](https://www.cdu.pt/2019/pdf/programa_eleitoral_pcp.pdf) | Diogo C.|  WIP|
